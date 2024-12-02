@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  // base:"/Amazon-part-one-project/",
+  base:"/Amazon-project-I/",
   plugins: [react()],
-})
+});
